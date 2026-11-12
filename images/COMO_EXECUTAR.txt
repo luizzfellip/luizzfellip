@@ -1,0 +1,17 @@
+ARVORE DE NATAL ASCII 3D - V3
+
+Requisitos (Ubuntu):
+  sudo apt install ffmpeg
+  python3 -m pip install numpy opencv-python pillow
+
+1. Gerar o video e o GIF normal (420px de largura):
+  python3 christmas_tree_ascii_v3.py
+
+2. A partir do video criado, gerar o GIF compacto (360px):
+  python3 export_v3_gif.py --video christmas_tree_ascii_v3.mp4 --gif christmas_tree_ascii_v3_compact.gif --width 360 --fps 10
+
+Se quiser regenerar o GIF normal a partir do mesmo video:
+  python3 export_v3_gif.py --video christmas_tree_ascii_v3.mp4 --gif christmas_tree_ascii_v3.gif --width 420 --fps 10
+
+O programa NAO alterna entre dois GIFs: gera arquivos separados.
+No README do GitHub, voce escolhe qual deles exibir no atributo src.

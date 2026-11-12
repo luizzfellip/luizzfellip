@@ -1,3 +1,10 @@
+<img
+  align="right"
+  src="https://raw.githubusercontent.com/luizzfellip/luizzfellip/main/images/christmas_tree_ascii_v3_compact.gif"
+  alt="Christmas Tree ASCII 3D"
+  width="220"
+/>
+
 # Hello there! <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="Waving Hand" width="30" height="30" />
 
 ### 💻 Computer Science Student | AI & ML Enthusiast
@@ -68,4 +75,4 @@ Exploring **Artificial Intelligence, Machine Learning, and Natural Language Proc
 
 ## 🌍 Connect with me
 
-<!-- Add your LinkedIn and GitHub links here -->
+[![Linkedin](https://img.shields.io/badge/-Luiz_Fellipe-0A66C2?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/luiz-fellipe-resende-47936833b//)](https://www.linkedin.com/in/luiz-fellipe-resende-47936833b//)
