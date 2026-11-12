@@ -1,16 +1,71 @@
-## Hi there 👋
+# Hello there! <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="Waving Hand" width="30" height="30" />
 
-<!--
-**luizzfellip/luizzfellip** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 💻 Computer Science Student | AI & ML Enthusiast
 
-Here are some ideas to get you started:
+I'm a **Computer Science undergraduate** at the **Federal University of Lavras (UFLA)**, with experience in **software development** and **product ownership**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Currently, I'm focusing my studies and projects on **Artificial Intelligence, Machine Learning, and Data Science**, exploring how these technologies can be applied to solve real-world challenges.
+
+---
+
+## 👨‍💻 About Me
+
+- 💡 Passionate about exploring technologies and developing solutions to real-world problems.
+- 🧠 Currently expanding my knowledge of **Artificial Intelligence, Machine Learning, and Data Science**.
+- 🚀 Combining technical development skills with product management experience.
+
+---
+
+## 🚀 Experience & Projects
+
+### 💼 Product Owner | Comp Júnior
+
+Working as a **Product Owner** at Comp Júnior, a student-run software development company at UFLA.
+
+My activities include requirements gathering, defining project priorities, collaborating with development teams, and helping transform client needs into software solutions.
+
+### 🧠 AI & Data Research | NIAD
+
+Member of **NIAD (Artificial Intelligence and Data Analysis Research Group)** at UFLA.
+
+Exploring **Artificial Intelligence, Machine Learning, and Natural Language Processing**, with a particular interest in **Large Language Models (LLMs)** and **Retrieval-Augmented Generation (RAG)**.
+
+---
+
+## 🛠️ Languages and Tools
+
+### 🧠 Artificial Intelligence & Data Science
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=py,pytorch,tensorflow,scikitlearn,anaconda" alt="AI and Data Science" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" height="40"/>
+  <img src="https://cdn.simpleicons.org/huggingface" height="40"/>
+  <img src="https://cdn.simpleicons.org/langchain/1C3C3C" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" height="40"/>
+  <img src="https://cdn.simpleicons.org/ollama" height="40"/>
+</p>
+
+### 💻 Programming Languages & Frameworks
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=java,cpp,ts,js,python,react,spring,nodejs,html,css" alt="Programming Languages and Frameworks" height="40"/>
+</p>
+
+### 🗄️ Databases & Infrastructure
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=postgres,mysql,sqlite,linux,docker" alt="Databases and Infrastructure" height="40"/>
+</p>
+
+### 🔧 Development Tools & Version Control
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,figma" alt="Development Tools" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/insomnia/insomnia-original.svg" alt="Insomnia" height="40"/>
+</p>
+
+---
+
+## 🌍 Connect with me
+
+<!-- Add your LinkedIn and GitHub links here -->
