@@ -31,11 +31,17 @@ Working as a **Product Owner** at Comp Júnior, a student-run software developme
 
 My activities include requirements gathering, defining project priorities, collaborating with development teams, and helping transform client needs into software solutions.
 
-### 🧠 AI & Data Research | NIAD
+### 🧠 AI & Data Science | NIAD
 
 Member of **NIAD (Artificial Intelligence and Data Analysis Research Group)** at UFLA.
 
-Exploring **Artificial Intelligence, Machine Learning, and Natural Language Processing**, with a particular interest in **Large Language Models (LLMs)** and **Retrieval-Augmented Generation (RAG)**.
+Exploring **Artificial Intelligence, Machine Learning, and Data Science**, participating in activities focused on applying these technologies to real-world challenges.
+
+### 🔬 Undergraduate Research | AI & RAG
+
+Currently conducting **undergraduate research in Artificial Intelligence**, with a focus on **Retrieval-Augmented Generation (RAG)**.
+
+My research involves studying and evaluating RAG techniques, investigating how external knowledge retrieval can improve the capabilities of **Large Language Models (LLMs)**.
 
 ---
 
