@@ -75,4 +75,4 @@ Exploring **Artificial Intelligence, Machine Learning, and Natural Language Proc
 
 ## 🌍 Connect with me
 
-[![Linkedin](https://img.shields.io/badge/-Luiz_Fellipe-0A66C2?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/luiz-fellipe-resende-47936833b//)](https://www.linkedin.com/in/luiz-fellipe-resende-47936833b//)
+[![Linkedin](https://img.shields.io/badge/-Luiz_Fellipe-0A66C2?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/luiz-fellipe-resende-47936833b/)](https://www.linkedin.com/in/luiz-fellipe-resende-47936833b/)
